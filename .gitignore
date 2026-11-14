@@ -218,3 +218,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ECG project additions
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local virtual environments
+.venv/
+venv/
+
+# Downloaded data: keep documentation
+/data/raw/*
+!/data/raw/README.md
+
+# Local secrets
+.env
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
