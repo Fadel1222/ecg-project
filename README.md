@@ -9,19 +9,6 @@ Build a reproducible workflow to inspect recorded ECG signals, assess
 filtering, detect R-peaks, calculate RR intervals and heart rate,
 and evaluate detections against reference annotations.
 
-## Current status
-
-Project setup is in progress.
-
-Completed:
-- Created a dedicated Conda environment.
-- Verified the environment and packages inside JupyterLab.
-- Created the initial project folders.
-- Exported the environment specification.
-- Documented the project scope.
-
-ECG loading, filtering, detection, and evaluation are not implemented yet.
-
 ## Tools
 
 - Python and JupyterLab
