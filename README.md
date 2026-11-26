@@ -28,7 +28,6 @@ and evaluate detections against reference annotations.
 ## Environment
 
 The current environment is recorded in `environment.yml`.
-Recreation from this file has not been verified yet.
 
 ## Roadmap
 
